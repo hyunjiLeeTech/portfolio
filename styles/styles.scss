@@ -200,10 +200,6 @@ section {
         height: 100%;
         object-fit: cover;
         transition: all 0.4s ease-in-out;
-        filter: grayscale(100%);
-        &:hover {
-          filter: grayscale(0);
-        }
       }
     }
   }
