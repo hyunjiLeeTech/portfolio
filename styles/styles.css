@@ -449,6 +449,54 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
+  width: 80%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .css {
+  width: 80%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .js {
+  width: 90%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .react {
+  width: 85%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .nodejs {
+  width: 90%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .mongodb {
+  width: 70%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .postgre {
+  width: 70%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .selenium {
+  width: 70%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .heroku {
+  width: 80%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .micro-suite {
+  width: 90%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .dynamics {
+  width: 75%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .powerapps {
+  width: 70%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .sharepoint {
   width: 90%;
 }
 
