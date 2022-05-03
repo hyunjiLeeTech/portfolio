@@ -641,6 +641,16 @@ section {
   padding-bottom: 1rem;
 }
 
+.portfolios .portfolio-item .portfolio-text .tl-duration {
+  padding: 0.2rem 0.6rem;
+  background-color: var(--color-grey-5);
+  border-radius: 15px;
+  display: inline-block;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
 .portfolio-item:hover .hover-items {
   opacity: 1;
   -webkit-transform: scale(1);
