@@ -464,6 +464,10 @@ section {
   width: 85%;
 }
 
+.about-stats .progress-bars .progress-bar .progress-con .progress .react-native {
+  width: 60%;
+}
+
 .about-stats .progress-bars .progress-bar .progress-con .progress .nodejs {
   width: 90%;
 }
@@ -478,6 +482,10 @@ section {
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .selenium {
   width: 70%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .jest {
+  width: 60%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .heroku {
