@@ -261,7 +261,6 @@ section {
   height: 90%;
   width: 68%;
   margin-left: 4rem;
-  background-color: var(--color-black);
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
@@ -598,8 +597,8 @@ section {
 .portfolios {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (1fr)[3];
-      grid-template-columns: repeat(3, 1fr);
+  -ms-grid-columns: (1fr)[2];
+      grid-template-columns: repeat(2, 1fr);
   grid-gap: 2rem;
   margin-top: 3rem;
 }
@@ -641,6 +640,7 @@ section {
 .portfolios .portfolio-item .portfolio-text h4 {
   font-size: 1.5rem;
   margin-bottom: 1rem;
+  text-align: center;
 }
 
 .portfolios .portfolio-item .portfolio-text p {
@@ -944,6 +944,12 @@ section {
   }
   .controlls .control {
     margin: 1rem 0.3rem;
+  }
+}
+
+@media screen and (max-width: 435px) {
+  .contact-desc {
+    white-space: pre !important;
   }
 }
 /*# sourceMappingURL=styles.css.map */
